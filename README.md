@@ -63,7 +63,9 @@ Contributions are welcome! Follow these steps:
 
 ## 📞 Contact
 If you have any questions, feel free to reach out:
-📧 Email: your-email@example.com  
+
 🔗 GitHub: [Dhurwaravishankar](https://github.com/Dhurwaravishankar)  
+📧 Email: Dhurwaravishankar24@navgurukul.org  
+link: https://v0-code-war-zonemain.vercel.app/
 
 🚀 Happy Coding & Competing! 🎯
